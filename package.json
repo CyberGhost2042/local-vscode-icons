@@ -1,0 +1,46 @@
+{
+	"name": "local-moxer-icons",
+	"displayName": "local moxer icons",
+	"author": {
+		"name": "Teenu Vardhan (custom)"
+	},
+	"publisher": "local",
+	"description": "custom build from Moltenship Moxer Icons",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"readme": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CyberGhost2042/custom-vscode-icons.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"icons",
+		"theme",
+		"icon-theme",
+		"customization",
+		"moxer"
+	],
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "local-moxer-icons",
+				"label": "custom-moxer-icons",
+				"path": "./themes/icons/moxer-icons.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1765800910388,
+		"targetPlatform": "undefined",
+		"size": 450283
+	}
+}
