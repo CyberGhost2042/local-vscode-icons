@@ -16,20 +16,24 @@
 
 | Status | Icon | ID | Description |
 |:------:|:----:|:---|:------------|
-| Changed | ![folder_database](https://raw.githubusercontent.com/CyberGhost2042/custom-vscode-icons/main/preview/folder_database.png) |  `folder_database` | Database folder icon with fresh new look |
-| Changed | ![folder_database_open](https://raw.githubusercontent.com/CyberGhost2042/custom-vscode-icons/main/preview/folder_database_open.png) | `folder_database_open` | Open state for database folder |
+| Changed | ![folder_database](https://raw.githubusercontent.com/CyberGhost2042/local-vscode-icons/main/preview/folder_database.png) |  `folder_database` | Database folder icon with fresh new look |
+| Changed | ![folder_database_open](https://raw.githubusercontent.com/CyberGhost2042/local-vscode-icons/main/preview/folder_database_open.png) | `folder_database_open` | Open state for database folder |
 
 ---
 
 ## Credits
 
-This is a custom build based on the original [Moxer Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-icons) by Mattia Astorino (Equinusocio).
+<p align="center"> This is a custom build based on the original "Moxer Icons" by Mattia Astorino (Equinusocio).
+</p>
 
 <p align="center">
-  Made with 💜 by <a href="https://github.com/CyberGhost2042">Teenu Vardhan</a>
+  <strong>Made This Repository for Personal Use Only since the Original Theme got removed from Marketplace.</strong>
+</p>
+
+ <p align="center"> <strong> <span style="color: red;"> Note: This is not published in the marketplace in respect of the original creator</strong>
 </p>
 
 ---
 
 ## 📁 Sample of Available Icons
-![hero_png](https://raw.githubusercontent.com/CyberGhost2042/custom-vscode-icons/main/preview/hero.png)
+![hero_png](https://raw.githubusercontent.com/CyberGhost2042/local-vscode-icons/main/preview/hero.png)
